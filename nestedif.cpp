@@ -14,4 +14,7 @@ string Status_lulus(float r)
         return "gagal";
 }
 
-
+int main()
+{
+   
+}
